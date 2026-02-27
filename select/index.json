@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バゥムクゥヘン・エンドロゥル",
+  "base_artist": "雨良",
+  "createdAt": "2026-02-27T16:43:03.843964Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バゥムクゥヘン・エンドロゥル",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_バゥムクゥヘン・エンドロゥル_雨良.txt"
+    }
+  ]
+}
